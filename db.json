@@ -1,8 +1,13 @@
-{"values": [
-"fileSize",
-"258044339",
-"serverAlert",
-null,
-"exportName",
-"EXP_from_MP_KEIKAKU_BI_1"
-]}
+{
+ "status": "success",
+ "code": "200",
+ "url": "https://your.domain/your_account/api/api_name/version/v1",
+ "query": {
+ "dbSchemaId": "102870",
+ "importId": "100603",
+ "fileId": "25"
+ },
+ "processId": "100685",
+ "version": "v1",
+ "accessTime": "2015-02-05 15:00:04 +0900"
+}
