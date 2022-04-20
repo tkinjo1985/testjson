@@ -1,11 +1,5 @@
 {
  "status": "success",
- "code": "200",
- "url": "https://your.domain/your_account/api/api_name/version/v1",
- "query": {
- "dbSchemaId": "102870",
- "importId": "100603",
- "fileId": "25"
  },
  "processId": "100685",
  "version": "v1",
